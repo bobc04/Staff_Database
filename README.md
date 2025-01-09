@@ -51,7 +51,7 @@ Technologies and tools used:
 - Ensure NPM PG is installed https://www.npmjs.com/package/pg
 - Ensure Vite is installed https://vite.dev/guide/
 - Ensure PostgreSQL is installed: https://www.postgresql.org/docs/current/tutorial-install.html
-- Watch this video for a demonstration: [Demo-Video, Vehcile Builder](https://drive.google.com/file/d/1c9Xn9lsn400k_h-dHmIsI70G-zGWwYLa/view?usp=drive_link)   
+- Watch this video for a demonstration: [video, employee_tracker](https://drive.google.com/file/d/1dTFVmplZ1MPCsjGlh4RYedg43xyfasZg/view?usp=drive_link)   
 
 ---
 ### License
